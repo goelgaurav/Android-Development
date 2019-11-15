@@ -1,0 +1,1 @@
+This is an android app developed for a coffee shop. The intent of this app is to demonstrate use of as many UI elements as possible such as Spinner, TextView, Checkbox, RadioButton Group, Edit texts with auto completion, etc
